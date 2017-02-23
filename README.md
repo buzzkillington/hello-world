@@ -1,2 +1,5 @@
 # hello-world
 foo
+bar
+
+baz
